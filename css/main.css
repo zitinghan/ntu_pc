@@ -10,7 +10,19 @@ body {
 	padding:10px 0;
 }
 
+.mainIcon{
+	padding-right:20px;
+}
+.mainIcon img{
+	width:130px;
+	margin-top:1px;
+}
 
+
+/* main page*/
+#main{
+
+}
 
 
 /* product Page */
