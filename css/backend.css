@@ -19,5 +19,10 @@ body{
 
 /* customer */
 .orderDetailsImg{
-	width:300px;
+	width:100%;
+}
+
+/* supplier */
+#supplier #brandingIcon{
+	width:150px;
 }
